@@ -2,6 +2,7 @@
 
 
 ![HESLO's GitHub stats](https://github-readme-stats.vercel.app/api?username=HESL0&show_icons=true&theme=highcontrast)
+[![HESLO's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HESL0&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--
 **HESL0/HESL0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
