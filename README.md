@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola amiga :octocat: 
 
 
 ![HESLO's GitHub stats](https://github-readme-stats.vercel.app/api?username=HESL0&show_icons=true&theme=highcontrast)
