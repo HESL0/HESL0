@@ -6,7 +6,7 @@
 
 <div style="display: flex; gap: 20px; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=HESL0&show_icons=true&theme=highcontrast" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HESL0&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HESL0&layout=compact&theme=highcontrast" alt="Top Languages" />
 </div>
 
 ---
